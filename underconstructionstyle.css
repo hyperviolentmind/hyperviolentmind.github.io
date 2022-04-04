@@ -1,15 +1,16 @@
 html {
- min-width:100%;
- min-height:100%;
-}
+   margin: 0px;
+   height: 100%;
+   width: 100%;
 
 body {
  background: linear-gradient(180deg, #000 0%, #121212 100%);
  color:whitesmoke;
  text-align:center;
  font-family: "Courier New", monospace;
+ margin:0;
  width:100%;
- heigt:100%;
+ min-height:100%;
 }
 
 div {
