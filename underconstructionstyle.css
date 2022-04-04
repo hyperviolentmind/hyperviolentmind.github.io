@@ -1,6 +1,6 @@
 html {
- width:100%;
- heigt:100%;
+ min-width:100%;
+ min-heigt:100%;
 }
 
 body {
