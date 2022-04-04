@@ -1,0 +1,32 @@
+body {
+ background: linear-gradient(180deg, #000 0%, #121212 100%);
+ color:whitesmoke;
+ text-align:center;
+ font-family: "Courier New", monospace;
+}
+
+div {
+  padding: 25px;
+}
+
+.box {
+    position: relative;
+}
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#impressum {
+  color:dimgrey; 
+}
+
+a:link a:visited {
+  text-decoration: none;
+}
+
+a:hover a:active {
+  text-decoration: underline;
+  color:darkkhaki;
+}
