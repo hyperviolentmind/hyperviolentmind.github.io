@@ -2,6 +2,7 @@ html {
    margin: 0px;
    height: 100%;
    width: 100%;
+}
 
 body {
  background: linear-gradient(180deg, #000 0%, #121212 100%);
