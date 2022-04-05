@@ -15,12 +15,20 @@ div {
   padding: 25px;
 }
 
-.text {
+#constructiontext {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align:center;
+}
+
+#impressumtext {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align:left;
 }
 
 a:link {
