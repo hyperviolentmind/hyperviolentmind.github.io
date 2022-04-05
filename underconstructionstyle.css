@@ -6,7 +6,6 @@ html {
 body {
  background: linear-gradient(180deg, #000 0%, #121212 100%);
  color:whitesmoke;
- text-align:center;
  font-family: "Courier New", monospace;
  margin:0;
  width:100%;
@@ -17,15 +16,12 @@ div {
   padding: 25px;
 }
 
-.box {
-    position: relative;
-}
-
 .text {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    text-align:center;
 }
 
 a:link {
