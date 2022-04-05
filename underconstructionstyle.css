@@ -5,6 +5,7 @@ html {
 
 body {
  background: linear-gradient(180deg, #000 0%, #121212 100%);
+ background-attachment: fixed;
  color:whitesmoke;
  font-family: "Courier New", monospace;
  margin:0;
